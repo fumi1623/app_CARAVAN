@@ -19,3 +19,6 @@ https://b4c2c33ef00d4dc8a7ad44f2d189bae8.vfs.cloud9.us-east-1.amazonaws.com/blog
 
 追記４
 編集機能を追加しました。
+
+追記５
+削除機能を追加しました。
