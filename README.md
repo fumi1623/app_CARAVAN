@@ -10,3 +10,6 @@ https://b4c2c33ef00d4dc8a7ad44f2d189bae8.vfs.cloud9.us-east-1.amazonaws.com/blog
 
 追記１
 新規投稿機能を追加しました。
+
+追記２
+ブログ部分の編集を行いました。
